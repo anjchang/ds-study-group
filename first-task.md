@@ -1,14 +1,12 @@
 ### Your First Task - [Git Pull Request](https://github.com/mccurcio/ds-study-group/blob/main/members-list.md)
 
-**Welcome to your first task to becoming a Data Science study group member.**
+#### To become a Data Science study group member:
 
-1. To become a member, add your name and information in CSV format to document `members-list.csv`.
-
-2. Add your information by generating a [Git Pull Request](https://git-scm.com/docs/git-request-pull). 
+- Add your name and information in CSV format to the document `members-list.csv` by generating a [Git Pull Request](https://git-scm.com/docs/git-request-pull). 
 
     - There are many tutorials, but here is [one example](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
 
-3. There are several ways to add your name and info to the file. I will describe only the most common way: **Fork a repository**.
+- There are several ways to add your name and info to the file. I will describe only the most common way: **Fork a repository**.
 
 #### WHY?
 
@@ -39,6 +37,7 @@
 7. Add your information in **CSV format**:
 
     - **NUMBER,"NAME","EMAIL","TIMEZONE","GITHUB_ADDRESS","POSSIBLE_TOPICS","NOTES"**
+    - CSV format does not use spaces between commas or strings.
     - If you have an idea on what you would like to do let us all know in **"POSSIBLE_TOPICS"**. Thanks
 
 8. Go to `Propose changes` at the bottom of the page.
