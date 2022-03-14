@@ -104,3 +104,33 @@ Below are a few points I would suggest the group be wary of/focus on. Other memb
 
 
 If the objectives are clear and members are determined to learn and contribute equally, we can do wonders as a group. It is not easy, but do-able. If the sustainability/interest in the group peters out within weeks, we’d rather not do anything and save a lot of effort and time
+
+## Anuja
+ I think a starting point would be to know where everyone is at in their data science learning journey and what their eventual goal is. I am bit of a boat out at sea, as I am not yet sure, what I want to do. But, I am just listing topics that interest me and what I can offer with respect to each of them:
+ * SQL + Tableau Visualization - 
+   * I can perform  and demonstrate reasonably complex queries and use them to create dashboards.
+   * Tools: MYSQL, Microsoft SQL Server Management Studio and Tableau Public.
+ * Python-
+   * Basics-variables, data types, conditional statements, loops.
+   * Lists- indexing, methods, list of lists.
+   * Numpy Arrays and Matplotlib.
+   * Using pandas for dataframes- exploratory data analysis.
+   * Tools- PyCharm, Jupyter Notebook/Colab.
+   * Things I would like to learn- using webscraping to get data from websites, interactive plotting, geopandas, choropleths etc.
+ * Microsoft Excel-
+   * Excel is overlooked so often! Still, I think it can be a valuable skill. I don't have a lot of experience with Excel, but if anyone can demonstrate the more advanced stuff like pivot tables, I would be interested.
+ * Machine Learning:
+    * I am a complete beginner here. As I learn more, I can contribute here. But am interested in a simple explanation of the different kinds of algorithms and a small guided project to show how to use them.
+  
+ * R programming:
+    * Again, I haven't used R ever before. But, interested in learning.
+     
+ * Data Visualization:
+ 
+       * Tableau Public
+       *  Matlab and Mathematica (if anyone is interested 😄)
+       *  Matplotlib and Seaborn
+       *  Excel
+       *  Things to learn/interests: Power BI, geoplotting, plotly and plotly express (for now).
+ * A quick introduction to Github 🙏 
+  
